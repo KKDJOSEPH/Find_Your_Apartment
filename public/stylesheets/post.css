@@ -86,6 +86,7 @@ h3 {
   font-weight: bold;
 }
 
+/* Adding a margin to buttons makes them look nicer */
 .button {
   color: black;
   background: linear-gradient(to bottom, #faf9de 100%, #091b66 2%);
@@ -94,6 +95,7 @@ h3 {
   cursor: pointer;
   font-size: 14px;
   text-decoration: none;
+  margin: 1%;
 }
 
 .button:hover {
